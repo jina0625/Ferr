@@ -9,17 +9,17 @@
 
 #### ❓분초사회(시성비)
 - 현대사회에서 귀중한 자원인 시간은 한정되어 있기 때문에 시간을 분초 단위로 쪼개서 효율적으로 관리하는 것이 필요
-- 축제에 대한 참여도가 높아지고 있는 현재, 한 플랫폼에서 여러가지 스케줄을 관리하는 것이 필요하다고 판다
+- 축제에 대한 참여도가 높아지고 있는 현재, 한 플랫폼에서 여러가지 스케줄을 관리하는 것이 필요하다고 판단
 
 
 <br>
 
 ## 👨‍👧‍👧 팀원
-- [박모세](https://github.com/m0p4rk) : 프론트엔드, DB설계, 프로젝트 총괄
+- [박모세](https://github.com/m0p4rk) : 프론트엔드, DB설계, 프로젝트 총괄 , 발표표
 - [조현철](https://github.com/whguscjf22) : 채팅 기능
-- [신예현](https://github.com/yerongshin) :  메인&로그인 기능
+- [신예현](https://github.com/yerongshin) :  메인&로그인 기능 , ppt제작
 - [김수한](https://github.com/tiger9397) : 일정 관리 기능
-- [한진아](https://github.com/jina0625) : 마이&로그인 기능
+- [한진아](https://github.com/jina0625) : 마이&로그인 기능, ppt제작, 발표
 - [황찬욱](https://github.com/ghkd1330) : 일정 관리 기능
 
 <br>
