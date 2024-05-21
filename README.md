@@ -15,7 +15,7 @@
 <br>
 
 ## 👨‍👧‍👧 팀원
-- [박모세](https://github.com/m0p4rk) : 프론트엔드, DB설계, 프로젝트 총괄 , 발표표
+- [박모세](https://github.com/m0p4rk) : 프론트엔드, DB설계, 프로젝트 총괄 , 발표
 - [조현철](https://github.com/whguscjf22) : 채팅 기능
 - [신예현](https://github.com/yerongshin) :  메인&로그인 기능 , ppt제작
 - [김수한](https://github.com/tiger9397) : 일정 관리 기능
